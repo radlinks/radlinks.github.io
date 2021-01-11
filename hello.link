@@ -1,0 +1,7 @@
+public class hellolink {
+
+public static void main(String[] args) {
+// Prints "hello, link" to the terminal window. 
+system.out.println("hello, link");
+}
+}
